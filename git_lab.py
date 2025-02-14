@@ -63,3 +63,6 @@ def is_prime(n):
 
 def sub_numbers(a, b):
     return a - b
+
+def mult_numbers(a, b):
+    return a * b
